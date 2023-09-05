@@ -1,0 +1,12 @@
+## Interface: 30400
+## Title: RollTracker Lite Revived
+## Notes: Keeps tracks of /rolls.
+## Version: 0.4.0
+## Author: 1. Coth & Morodan 2. Jerry Chong 3. shadowgrind
+## X-Category: Miscellaneous
+## DefaultState: enabled
+## SavedVariables: RollTrackerDB
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: true
+
+RollTrackerLiteRevived.xml
